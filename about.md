@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hello, my name is Emily Daitch, I'm a software engineer at John Deere! I enjoy painting, taking care of my many plants, spoiling my two pet bunnies, and also... coding! This site is powered by Jekyll and github pages.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[emily.daitch@gmail.com](mailto:emily.daitch@gmail.com)
+[Twitter @EmilyDevelops](https://twitter.com/EmilyDevelops)
+[Instagram @cheery.queer](https://www.instagram.com/cheery.queer/)
